@@ -1,9 +1,8 @@
 
-<h3><p align="center">Hello guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3></p>
+<h2><p align="center">Hello guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2></p>  
 
-<h2><p align="center">About me:</h2></p>  
-
-My name is Homayoon! I'm currently studying [Materials Science and Engineering][mat] (@[Sharif University of Technology][sharif]). Gaining more and more experience in [Data Science][ds] each and every day!
+My name is Homayoon! I'm currently studying [Materials Science and Engineering][mat] (@[Sharif University of Technology][sharif]). Gaining more and more experience in [Data Science][ds] and [Machine Learning][ml] each and every day!  
+Make sure to contact me if you needed to:
 
 [<p align="center"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></p>][1]
 
@@ -12,6 +11,7 @@ My name is Homayoon! I'm currently studying [Materials Science and Engineering][
 [mat]: https://en.wikipedia.org/wiki/Materials_science
 [sharif]: https://en.wikipedia.org/wiki/Sharif_University_of_Technology
 [ds]: https://en.wikipedia.org/wiki/Data_science
+[ml]: https://en.wikipedia.org/wiki/Machine_learning
 
 <br/>  
 <p align="center">
