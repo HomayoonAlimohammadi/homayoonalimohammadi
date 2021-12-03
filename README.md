@@ -40,7 +40,7 @@ Data Science - Machine Learning - Deep Learning - Computer Vision - Natural Lang
 * ⚡ Fun fact: I used to be really into 3D Modeling, just before I find out that AI is seriously taking over the world, specially my beloved 3D Modeling! 
 * ### 🎯 Final Goal: Becoming a Full Stack Data Scientist!
 
-<!-- <br/><br/> -->
+<br/><br/>
 
 <p align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TurtlePazzo&theme=vision-friendly-dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
