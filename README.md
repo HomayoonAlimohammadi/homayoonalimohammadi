@@ -15,15 +15,15 @@ Make sure to contact me if you needed to:
 
 <br/>  
 <p align="center">
-<img align=center src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=1988ff" />
-<img align=center src="https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=ff5b19" />
-<img align=center src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=ffff19" />
-<img align=center src="https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=ed8545" />
+<img align=center src="https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=1988ff" />
+<img align=center src="https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=ff5b19" />
+<img align=center src="https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=1f63a6&color=ffff19" />
+<img align=center src="https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=ed8545" />
 <!-- <img align=center src="https://img.shields.io/badge/Interests-MachineLearning-informational?style=flat&logo=Tensorflow&logoColor=white&color=ed8545" /> -->
 </p>
 <br/>  
 <h2><p align="center">🧐 Fields of Interest & Expertise:</h2></p>
-Data Science - Machine Learning - Deep Learning - Computer Vision - Natural Langugage Processing - Data Engineering - Machine Learning Engineering - Data Analytisis - Data Visualization - Image Processing - Database and Clouds
+Programming - Data Science - Machine Learning - Deep Learning - Computer Vision - Natural Langugage Processing - Data Engineering - Machine Learning Engineering - Data Analytisis - Data Visualization - Image Processing - Database and Clouds
 
 <!-- ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=1988ff)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=ff5b19)
