@@ -18,7 +18,7 @@ Make sure to contact me if you needed to:
 <img align=center src="https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=1988ff" />
 <img align=center src="https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=ff5b19" />
 <img align=center src="https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=1f63a6&color=ffff19" />
-<img align=center src="https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=ed8545" />
+<img align=center src="https://img.shields.io/badge/Django-informational?style=flat&logo=Django&logoColor=blue&color=white" />
 <!-- <img align=center src="https://img.shields.io/badge/Interests-MachineLearning-informational?style=flat&logo=Tensorflow&logoColor=white&color=ed8545" /> -->
 </p>
 <br/>  
