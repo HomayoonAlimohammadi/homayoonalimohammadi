@@ -2,8 +2,8 @@
 <h2><p align="center">Hello guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2></p>  
 
 My name is Homayoon! I'm currently studying BSc. in [Sharif University of Technology][sharif], Iran.<br>
-I'm passionate a <b>Back-End Developer</b>, also interested in <b>Front-End technologies</b>.<br>
-Intermediate experience in <b>Data Science</b> and <b>Machine Learning</b>.<br><br>
+I'm passionate a <b><i>Back-End Developer</i></b>, also interested in <b><i>Front-End technologies</i></b>.<br>
+Intermediate experience in <b><i>Data Science</i></b> and <b><i>Machine Learning</i></b>.<br><br>
 Make sure to contact me if you needed to:
 
 [<p align="center"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></p>][1]
