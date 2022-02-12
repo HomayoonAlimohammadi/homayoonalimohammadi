@@ -37,18 +37,15 @@ Make sure to contact me if you needed to:
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=ff5b19)
 ![](https://img.shields.io/badge/Interests-MachineLearning-informational?style=flat&logo=Tensorflow&logoColor=white&color=ed8545)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=ffff19)       -->
-<br/>  
-<br/> <br/> 
+<br>
 
-## In case you're interested:
+### In case you're interested:
 * 🔭 I’m currently working on building my future as a Full Stack Developer with a robust DS/ML toolkit!  
 * 🌱 I’m Mastering Back-End Development!  
 * 👯 I’m looking to get hired as a Back-End Developer.  
 * ⚡ Fun fact: I used to be really into 3D Modeling, just before I find out that AI is seriously taking over the world, specially my beloved 3D Modeling! 
-* ### 🎯 Final Goal: Becoming a Full Stack Web Developer!
-* thanks
-
-<br/><br/>
+* 🎯 Final Goal: Becoming a <b><i>Full Stack Web Developer</i></b>!
+<br>
 
 <p align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TurtlePazzo&theme=vision-friendly-dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
