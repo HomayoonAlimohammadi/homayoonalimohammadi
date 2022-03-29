@@ -18,16 +18,20 @@ Make sure to contact me if you needed to:
 
 <br/>  
 <p align="center">
-<img align=center src="https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6" />
-<img align=center src="https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=ff5b19" />
-<img align=center src="https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=1f63a6&color=ffff19" />
-<img align=center src="https://img.shields.io/badge/Django-informational?style=flat&logo=Django&logoColor=044a16&color=white" />
+<img align=center src="https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=0078D6&color=292A2D" />
+<img align=center src="https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=ff5b19&color=292A2D" />
+<img align=center src="https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=3776AB&color=292A2D" />
+<img align=center src="https://img.shields.io/badge/Django-informational?style=flat&logo=Django&logoColor=044a16&color=292A2D" />
 <img align=center src="https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML5&logoColor=E34F26&color=292A2D" />
 <img align=center src="https://img.shields.io/badge/CSS-informational?style=flat&logo=CSS3&logoColor=1572B6&color=292A2D" /><br/>
 <img align=center src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ffeb14&color=292A2D" />
 <img align=center src="https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=61DAFB&color=292A2D" />
 <img align=center src="https://img.shields.io/badge/VSCode-informational?style=flat&logo=visual studio code&logoColor=007ACC&color=292A2D" />
 <img align=center src="https://img.shields.io/badge/Jupyter Notebook-informational?style=flat&logo=Jupyter&logoColor=F37626&color=292A2D" />
+<img align=center src="https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&logoColor=2496ED&color=292A2D" /><br/>
+<img align=center src="https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=4169E1&color=292A2D" />
+<img align=center src="https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=47A248&color=292A2D" />
+<img align=center src="https://img.shields.io/badge/Amazon Web Services-informational?style=flat&logo=Amazon AWS&logoColor=FF9900&color=292A2D" />
 
 <!-- <img align=center src="https://img.shields.io/badge/Interests-MachineLearning-informational?style=flat&logo=Tensorflow&logoColor=white&color=ed8545" /> -->
 </p>
