@@ -39,6 +39,9 @@ Make sure to contact me if you needed to:
 <h2><p align="center">🧐 Fields of Expertise:</h2></p>
 <h3><p align='center'>Web Development - Data Science - Machine Learning</p></h3>
 
+<h2><p align="center">🧐 Fields of Interest:</h2></p>
+<h3><p align='center'>Progressive Web Apps - Blockchain - DApps - Accelerated Mobile Pages<br/>Single Page Applications - Serverless Architecture</p></h3>
+
 
 <!-- ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=1988ff)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=ff5b19)
@@ -55,6 +58,6 @@ Make sure to contact me if you needed to:
 <br>
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=homayoonalimohammadi&theme=vision-friendly-dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=homayoonalimohammadi&theme=vision-friendly-dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&langs_count=8" />
+<img height="220em" src="https://github-readme-stats.vercel.app/api?username=homayoonalimohammadi&theme=vision-friendly-dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><br/>
+<img height="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=homayoonalimohammadi&theme=vision-friendly-dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&langs_count=8" />
 </p>
