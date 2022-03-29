@@ -38,7 +38,7 @@ Make sure to contact me if you needed to:
 <br/> <br><br>
 <h2><p align="center">🧐 Fields of Expertise:</h2></p>
 <h3><p align='center'>Web Development - Data Science - Machine Learning</p></h3>
-
+<br/><br/>
 <h2><p align="center">🧐 Fields of Interest:</h2></p>
 <h3><p align='center'>Progressive Web Apps - Blockchain - DApps - Accelerated Mobile Pages<br/>Single Page Applications - Serverless Architecture</p></h3>
 
