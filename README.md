@@ -78,6 +78,7 @@ Make sure to contact me if you needed to:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=ffff19)       -->
 <br>
 
+
 ### In case you're interested:
 * 🔭 I’m currently busy building my future as a <b>Full Stack Web3 Developer</b>
 * 🌱 I’m Interested in <b>Blockchain</b> and <b>Data Science</b>.    
