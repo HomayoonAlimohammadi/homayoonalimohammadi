@@ -4,10 +4,9 @@
 My name is <b>Homayoon</b>! I'm currently studying BSc. in [Sharif University of Technology][sharif], Iran.  
 
 I'm passionate a <b>Full Stack Developer</b>, with most interest and experience in <b>Backend Technologies</b>.  
-I'm also considering <b>Blockchain</b>, <b>Distributed Systems</b> and <b>DApps</b> as my long-term career path.  
-I've been dedicatedly learning and searching this interesting and immense field.  
-I'm focued on learning related skills and improve in what I do every single day.  
-I also have intermediate experience in <b>Data Science</b> and <b>Machine Learning</b>.  
+Considering <b>Blockchain</b>, <b>Distributed Systems</b> and <b>DApps</b> as my long-term career path. Have been dedicatedly learning and searching this interesting and immense field.  
+Focued on learning related skills and improve in what I do, every single day.  
+Also have intermediate experience in <b>Data Science</b> and <b>Machine Learning</b>.  
 <br/>
 Make sure to <b>Contact</b> me if you needed to:
 
