@@ -9,10 +9,15 @@ Intermediate experience in <b><i>Data Science</i></b> and <b><i>Machine Learning
 Make sure to contact me if you needed to:
 
 <p align="center">
-<a href="">
+<a href="https://homayoonalimohammadi.github.io">
+<img align="center" alt="linkedin" src="https://img.shields.io/badge/GitHub.io-silver?style=for-the-badge&logo=GitHub&logoColor=black">
+</a>
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/homayoon-alimohammadi/">
 <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="">
+<a href="https://twitter.com/homayoonalm">
 <img align="center" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
 </p>
@@ -22,17 +27,8 @@ Make sure to contact me if you needed to:
 
 [<p align="center"><img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></p>][instagram]
 
-[instaIMG]: https://i.imgur.com/OgUDrnB.png
-[linkedin]: https://www.linkedin.com/in/homayoon-alimohammadi/
-[instagram]: http://instagram.com/code_bama 
-[twitter]: https://twitter.com/homayoonalm
-[mat]: https://en.wikipedia.org/wiki/Materials_science
-[sharif]: https://en.wikipedia.org/wiki/Sharif_University_of_Technology
-[ds]: https://en.wikipedia.org/wiki/Data_science
-[ml]: https://en.wikipedia.org/wiki/Machine_learning
-
-
 <br/>  
+
 <p align="center" width="100%">
 <img align=center src="https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=0078D6&color=292A2D" />
 <img align=center src="https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=ff5b19&color=292A2D" />
@@ -53,15 +49,6 @@ Make sure to contact me if you needed to:
 <img align=center src="https://img.shields.io/badge/Amazon Web Services-informational?style=flat&logo=Amazon AWS&logoColor=FF9900&color=292A2D" />
 </p>
 
-<!-- <img align=center src="https://img.shields.io/badge/Interests-MachineLearning-informational?style=flat&logo=Tensorflow&logoColor=white&color=ed8545" /> -->
-
-<br/>
-<h2><p>🧐 Fields of Expertise:</h2></p>
-<h3><p align='center'>
-<li>Web Development</li>
-<li>Data Science</li>
-<li>Machine Learning</li>
-</p></h3>
 <br/>
 
 <h2><p>🧐 Fields of Interest:</h2></p>
@@ -70,14 +57,6 @@ Make sure to contact me if you needed to:
 <li>DApps</li>
 <li>Machine Learning</li>
 </p></h3>
-
-
-<!-- ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=1988ff)
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=ff5b19)
-![](https://img.shields.io/badge/Interests-MachineLearning-informational?style=flat&logo=Tensorflow&logoColor=white&color=ed8545)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=ffff19)       -->
-<br>
-
 
 ### In case you're interested:
 * 🔭 I’m currently busy building my future as a <b>Full Stack Web3 Developer</b>
@@ -90,3 +69,7 @@ Make sure to contact me if you needed to:
 <img height="200m" src="https://github-readme-stats.vercel.app/api?username=homayoonalimohammadi&theme=vision-friendly-dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=homayoonalimohammadi&theme=vision-friendly-dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&langs_count=8" />
 </p>
+
+
+[instagram]: https://www.instagram.com/code_bama/ 
+[sharif]: https://en.wikipedia.org/wiki/Sharif_University_of_Technology
