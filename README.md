@@ -1,9 +1,12 @@
 
 <h2><p align="center">Hello guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2></p>  
 
-My name is Homayoon! I'm currently studying BSc. in [Sharif University of Technology][sharif], Iran.<br>
-I'm passionate a <b><i>Full Stack Developer</i></b>, with most interest and experience in <b>Backend Technologies</b>. <br/>
-I'm also considering <b>Blockchain</b>, <b>Distributed Systems</b> and <b>DApps</b> as my long-term career path. I've been dedicatedly learning and searching this interesting and immense field. <br/> 
+My name is Homayoon! I'm currently studying BSc. in [Sharif University of Technology][sharif], Iran.
+<br/>
+I'm passionate a <b>Full Stack Developer</b>, with most interest and experience in <b>Backend Technologies</b>. 
+<br/>
+I'm also considering <b>Blockchain</b>, <b>Distributed Systems</b> and <b>DApps</b> as my long-term career path. I've been dedicatedly learning and searching this interesting and immense field. 
+<br/> 
 I'm focued on learning related skills and improve in what I do every single day. <br/>
 Intermediate experience in <b><i>Data Science</i></b> and <b><i>Machine Learning</i></b>.<br><br>
 Make sure to contact me if you needed to:
