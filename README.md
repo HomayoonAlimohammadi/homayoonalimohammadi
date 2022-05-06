@@ -1,12 +1,19 @@
 
 <h2><p align="center">Hello guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2></p>  
 
-My name is <b>Homayoon</b>! I'm currently studying BSc. in [Sharif University of Technology][sharif], Iran.  
-
-I'm passionate a <b>Full Stack Developer</b>, with most interest and experience in <b>Backend Technologies</b>.  
-Considering <b>Blockchain</b>, <b>Distributed Systems</b> and <b>DApps</b> as my long-term career path. Have been dedicatedly learning and searching this interesting and immense field.  
-Focued on learning related skills and improve in what I do, every single day.  
-Also have intermediate experience in <b>Data Science</b> and <b>Machine Learning</b>.  
+My name is Homayoon! <br/>
+I'm currently studying BSc. in Sharif University of Technology, Iran.<br/><br/>
+I'm a passionate <b>Software Engineer</b>, with most interest and experience in <b>Backend Technologies</b>.<br/><br/>
+Seriously considering <b>Blockchain</b>, <b>Distributed</b> Systems and <b>DApps</b> as my long-term career path. As a result, I've been dedicatedly learning and searching this interesting and immense field.<br/><br/>
+Focued on learning related skills and improving in (and on!) what I do, every single day.<br/>
+Equipped with intermediate experience in <b>Data Science</b> and <b>Machine Learning</b>.
+</p>
+</div>
+<div>
+<p>
+You can Checkout my <a href="https://homayoonalimohammadi.github.io/resume/">Resume</a>, in case you're interested!
+</p>
+<p>There is an up-to-date link to my <a href="https://homayoonalimohammadi.github.io/projects/">Projects</a> as well as my <a href="https://homayoonalimohammadi.github.io">GitHub</a> personal Website.</p>
 <br/>
 Make sure to <b>Contact</b> me if you needed to:
 
@@ -56,7 +63,8 @@ Make sure to <b>Contact</b> me if you needed to:
 <h2><p>🧐 Fields of Interest:</h2></p>
 <h3><p align='center'>
 <li>Blockchain</li>
-<li>DApps</li>
+<li>Distributed Systems</li>
+  <li>Cloud Computing</li>
 <li>Machine Learning</li>
 </p></h3>
 
