@@ -3,10 +3,10 @@
 
 My name is Homayoon! <br/>
 I'm currently studying BSc. in Sharif University of Technology, Iran.<br/><br/>
-I'm a passionate <b>Software Engineer</b>, with most interest and experience in <b>Backend Technologies</b>.<br/><br/>
-Seriously considering <b>Blockchain</b>, <b>Distributed</b> Systems and <b>DApps</b> as my long-term career path. As a result, I've been dedicatedly learning and searching this interesting and immense field.<br/><br/>
-Focued on learning related skills and improving in (and on!) what I do, every single day.<br/>
-Equipped with intermediate experience in <b>Data Science</b> and <b>Machine Learning</b>.
+I'm a passionate <b>Software Engineer</b>, with most interest and experience in <b>Backend Technologies</b>. <br/><br/>
+Focused on learning and improving every single day. 
+My long-term goal is to become a highly in demand <b>Data Engineer</b>.<br/><br/> 
+Interested in <b>Blockchain</b> and <b>Distributed Systems</b>.<br/>
 </p>
 </div>
 <div>
