@@ -1,5 +1,5 @@
 
-<h2><p align="center">Hello guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2></p>  
+<h2><p align="center">Hello guys!</h2></p>  
 
 My name is Homayoon! <br/>
 I'm currently studying BSc. in Sharif University of Technology, Iran.<br/><br/>
