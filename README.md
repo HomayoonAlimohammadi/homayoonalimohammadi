@@ -1,11 +1,11 @@
 
 <h2><p align="center">Hello guys!</h2></p>  
 
-My name is <b>Homayoon<b/>! <br/>
+My name is <b>Homayoon</b>! <br/>
 I'm currently pursuing a Master's Degree in AI at KNTU, Iran.<br/><br/>
 Also a humble <b>Software Engineer</b>.<br/>
 Focused on learning and improving every single day.<br/>
-Interested in  <b>Machine Learning</b>, <b>Site Reliability Engineering</b>, <b>Cloud Architecture</b> and <b>DevOps</b>.
+Interested in  <b>Machine Learning</b>, <b>Site Reliability Engineering</b>, <b>Cloud Architecture</b> and <b>DevOps</b>.<br><br>
 I enjoy writing <a href="https://homayoon.blog/homayoon-alimohammadi-technical-blogs/">Technical Blogs</a> as well.
 <br/>
 </p>
