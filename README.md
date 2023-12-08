@@ -2,10 +2,11 @@
 <h2><p align="center">Hello guys!</h2></p>  
 
 My name is <b>Homayoon<b/>! <br/>
-I'm currently studying BSc. in Sharif University of Technology, Iran.<br/><br/>
-I'm a passionate and hard-working <b>Software Engineer</b>.<br/>
+I'm currently studying BSc. in AI at KNTU, Iran.<br/><br/>
+Also a humble <b>Software Engineer</b>.<br/>
 Focused on learning and improving every single day.<br/>
-Interested in <b>Site Reliability Engineering</b>, <b>Cloud Architecture</b>, <b>DevOps</b> and <b>Machine Learning</b>.
+Interested in  <b>Machine Learning</b>, <b>Site Reliability Engineering</b>, <b>Cloud Architecture</b> and <b>DevOps</b>.
+I enjoy writing <a href="https://homayoon.blog/homayoon-alimohammadi-technical-blogs/">Technical Blogs</a> as well.
 <br/>
 </p>
 </div>
@@ -16,7 +17,7 @@ My Blog
 </a>
 </p>
 <p>
-You can Checkout my <a href="https://homayoon.blog/resume/">Resume</a>, in case you're interested!
+You can Checkout my <a href="https://homayoon.blog/homayoon-alimohammadi-resume/">Resume</a>, in case you're interested!
 </p>
 <br/>
 Make sure to <b>Contact</b> me if you needed to:
