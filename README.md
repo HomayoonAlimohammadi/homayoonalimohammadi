@@ -32,11 +32,5 @@ Make sure to <b>Contact</b> me if you needed to:
 </a>
 </p>
 <br/>
-  
-<p align="center">
-<img height="200m" src="https://github-readme-stats.vercel.app/api?username=homayoonalimohammadi&theme=vision-friendly-dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=homayoonalimohammadi&theme=vision-friendly-dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&langs_count=8" />
-</p>
-
 
 [sharif]: https://en.wikipedia.org/wiki/Sharif_University_of_Technology
