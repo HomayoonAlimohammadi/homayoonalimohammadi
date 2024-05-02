@@ -2,11 +2,10 @@
 <h2><p align="center">Hello guys!</h2></p>  
 
 My name is <b>Homayoon</b>! <br/>
-I'm currently pursuing a Master's Degree in AI at KNTU, Iran.<br/><br/>
-Also a humble <b>Software Engineer</b>.<br/>
-Focused on learning and improving every single day.<br/>
+I'm a <b>Software Engineer</b> and currently pursuing a Master's Degree in Artificial Intelligence.<br/><br/>
+Focused on learning and improving every single day. Trying to reach the 10,000 hours practice time!<br/>
 Interested in  <b>Machine Learning</b>, <b>Site Reliability Engineering</b>, <b>Cloud Architecture</b> and <b>DevOps</b>.<br><br>
-I enjoy writing <a href="https://homayoon.blog/homayoon-alimohammadi-technical-blogs/">Technical Blogs</a> as well.
+I enjoy writing <a href="https://homayoon.blog/blogs/">Technical Blogs</a> as well.
 <br/>
 </p>
 </div>
@@ -17,7 +16,7 @@ My Blog
 </a>
 </p>
 <p>
-You can Checkout my <a href="https://homayoon.blog/homayoon-alimohammadi-resume/">Resume</a>, in case you're interested!
+You can Checkout my <a href="https://homayoon.blog/resume/">Resume</a>, in case you're interested!
 </p>
 <br/>
 Make sure to <b>Contact</b> me if you needed to:
@@ -32,5 +31,3 @@ Make sure to <b>Contact</b> me if you needed to:
 </a>
 </p>
 <br/>
-
-[sharif]: https://en.wikipedia.org/wiki/Sharif_University_of_Technology
