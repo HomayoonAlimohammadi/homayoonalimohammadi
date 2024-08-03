@@ -1,9 +1,9 @@
 
 <h2><p align="center">Hello guys!</h2></p>  
 
-My name is <b>Homayoon</b>! <br/>
-I'm a <b>Software Engineer</b> and currently pursuing a Master's Degree in Artificial Intelligence.<br/><br/>
-Focused on learning and improving every single day. Trying to reach the 10,000 hours practice time!<br/>
+My name is <b>Homayoon</b> but feel free to call me **Hue**! <br/>
+I'm a <b>Software Engineer</b> at @Canonical (The company behind [Ubuntu][ubuntu], [Canonical Kubernetes][ck8s], [Microk8s][microk8s], [Juju][juju], [MAAS][maas] and many more), working in the Kubernetes team. I'm also pursuing a Master's Degree in Artificial Intelligence.<br/><br/>
+Trying to learn and improve every single day (having the 10k rule in mind).<br/>
 Interested in  <b>Machine Learning</b>, <b>Site Reliability Engineering</b>, <b>Cloud Architecture</b> and <b>DevOps</b>.<br><br>
 I enjoy writing <a href="https://homayoon.blog/blogs/">Technical Blogs</a> as well.
 <br/>
@@ -31,3 +31,9 @@ Make sure to <b>Contact</b> me if you needed to:
 </a>
 </p>
 <br/>
+
+[ck8s]: https://ubuntu.com/kubernetes
+[ubuntu]: https://ubuntu.com/
+[juju]: https://juju.is/
+[maas]: https://maas.io
+[microk8s]: https://microk8s.io/
