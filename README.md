@@ -49,7 +49,7 @@ I write about software engineering and cloud technologies on my blog.
 <div align="center">
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://homayoon.blog">
     <img src="https://skillicons.dev/icons?i=ubuntu,kubernetes,docker,aws,go,python&theme=dark&perline=8" />
   </a>
 </p>
