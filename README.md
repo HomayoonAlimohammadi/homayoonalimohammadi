@@ -28,11 +28,11 @@ I write about software engineering and cloud technologies on my blog.
 
   [![Website](https://img.shields.io/badge/🌐%20Website-homayoon.blog-blueviolet?style=for-the-badge)](https://homayoon.blog)
 
-  <a href="https://www.linkedin.com/in/homayoon-alimohammadi/">
+  <a href="https://www.linkedin.com/in/homayoon-alimohammadi/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-  </a>  <a href="https://x.com/homayoonalm">
+  </a>  <a href="https://x.com/homayoonalm" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
-  </a>  <a href="mailto:homayoonalimohammadi@gmail.com">
+  </a>  <a href="mailto:homayoonalimohammadi@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
 
@@ -49,7 +49,7 @@ I write about software engineering and cloud technologies on my blog.
 <div align="center">
 
 <p align="center">
-  <a href="https://homayoon.blog">
+  <a href="https://homayoon.blog" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=ubuntu,kubernetes,docker,aws,go,python&theme=dark&perline=8" />
   </a>
 </p>
@@ -61,7 +61,7 @@ I write about software engineering and cloud technologies on my blog.
 <div align="center">
   <i>Thanks for stopping by!</i>
   <br><br>
-  <a href="https://homayoon.blog">
+  <a href="https://homayoon.blog" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Visit%20My%20Website-homayoon.blog-blueviolet?style=flat-square" alt="Website" />
   </a>
 </div>
