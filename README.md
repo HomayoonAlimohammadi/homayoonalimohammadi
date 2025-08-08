@@ -30,9 +30,11 @@ I write about software engineering and cloud technologies on my blog.
 
   <a href="https://www.linkedin.com/in/homayoon-alimohammadi/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-  </a>  <a href="https://x.com/homayoonalm" target="_blank" rel="noopener noreferrer">
+  </a>
+  <a href="https://x.com/homayoonalm" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
-  </a>  <a href="mailto:homayoonalimohammadi@gmail.com" target="_blank" rel="noopener noreferrer">
+  </a>
+  <a href="mailto:homayoonalimohammadi@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
 
@@ -40,29 +42,9 @@ I write about software engineering and cloud technologies on my blog.
 
 </div>
 
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=homayoonalimohammadi&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-
-<p align="center">
-  <a href="https://homayoon.blog" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=ubuntu,kubernetes,docker,aws,go,python&theme=dark&perline=8" />
-  </a>
-</p>
-
-</div>
-
 ---
 
 <div align="center">
   <i>Thanks for stopping by!</i>
-  <br><br>
-  <a href="https://homayoon.blog" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Visit%20My%20Website-homayoon.blog-blueviolet?style=flat-square" alt="Website" />
-  </a>
 </div>
 
