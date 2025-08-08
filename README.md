@@ -1,39 +1,68 @@
+# Hi there, I'm Homayoon! 👋
 
-<h2><p align="center">Hello guys!</h2></p>  
 
-My name is <b>Homayoon</b> but feel free to call me **Hue**! <br/>
-I'm a <b>Software Engineer</b> at [Canonical](https://canonical.com) (The company behind [Ubuntu][ubuntu], [Canonical Kubernetes][ck8s], [Microk8s][microk8s], [Juju][juju], [MAAS][maas] and many more), working in the Kubernetes team. I'm also pursuing a Master's Degree in Artificial Intelligence.<br/><br/>
-Trying to learn and improve every single day (having the 10k hours rule in mind).<br/>
-Interested in  <b>Machine Learning</b>, <b>Site Reliability Engineering</b>, <b>Cloud Architecture</b> and <b>DevOps</b>.<br><br>
-I enjoy writing <a href="https://homayoon.blog/blogs/">Technical Blogs</a> as well.
-<br/>
-</p>
+## 👨‍💻 About Me
+
+I'm a Software Engineer at [**Canonical**](https://canonical.com/) working with **Golang**, **Python**, and **Kubernetes**. I enjoy building cloud-native applications and contributing to open-source projects.
+
+[![Resume](https://img.shields.io/badge/More%20About%20Me->%20About-blueviolet?style=for-the-badge&logo=info)](https://homayoon.blog/about)‍
+
+[![Resume](https://img.shields.io/badge/View%20My%20Resume->%20Resume-blue?style=for-the-badge&logo=file-text)](https://homayoon.blog/resume)‍
+
+## 🎓 Education
+
+- M.S. in Artificial Intelligence - K.N. Toosi University of Technology
+- B.S. in Materials Science & Engineering - Sharif University of Technology
+
+## 📝 Writing
+
+I write about software engineering and cloud technologies on my blog.
+
+[![Blog](https://img.shields.io/badge/Read%20My%20Blog->%20Blog-blueviolet?style=for-the-badge&logo=rss)](https://homayoon.blog/blog)
+
+## 🌐 Connect
+
+<div align="center">
+
+<div align="center">
+
+  [![Website](https://img.shields.io/badge/🌐%20Website-homayoon.blog-blueviolet?style=for-the-badge)](https://homayoon.blog)
+
+  <a href="https://www.linkedin.com/in/homayoon-alimohammadi/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>  <a href="https://x.com/homayoonalm">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
+  </a>  <a href="mailto:homayoonalimohammadi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+
 </div>
-<div>
-  <p align="center">
-<a href="https://homayoon.blog">
-My Blog
-</a>
-</p>
-<p>
-You can Checkout my <a href="https://homayoon.blog/resume/">Resume</a>, in case you're interested!
-</p>
-<br/>
-Make sure to <b>Contact</b> me if you needed to:
 
+</div>
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=homayoonalimohammadi&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
 
 <p align="center">
-<a href="https://www.linkedin.com/in/homayoon-alimohammadi/">
-<img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://twitter.com/homayoonalm">
-<img align="center" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
-</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu,kubernetes,docker,aws,go,python&theme=dark&perline=8" />
+  </a>
 </p>
-<br/>
 
-[ck8s]: https://ubuntu.com/kubernetes
-[ubuntu]: https://ubuntu.com/
-[juju]: https://juju.is/
-[maas]: https://maas.io
-[microk8s]: https://microk8s.io/
+</div>
+
+---
+
+<div align="center">
+  <i>Thanks for stopping by!</i>
+  <br><br>
+  <a href="https://homayoon.blog">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-homayoon.blog-blueviolet?style=flat-square" alt="Website" />
+  </a>
+</div>
+
