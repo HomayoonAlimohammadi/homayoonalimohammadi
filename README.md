@@ -8,7 +8,9 @@
 
 <p>
   <a href="https://canonical.com/"><img src="https://img.shields.io/badge/Canonical-Kubernetes_Team-E95420?style=flat-square&labelColor=0D1117&logo=ubuntu&logoColor=E95420" alt="Canonical" /></a>
-  <img src="https://img.shields.io/badge/Go-5%2B_years-00ADD8?style=flat-square&labelColor=0D1117&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00ADD8" alt="Python" />
+  <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=00ADD8" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Dubai-%E2%86%92_Germany-00ADD8?style=flat-square&labelColor=0D1117&logo=googlemaps&logoColor=00ADD8" alt="Relocating to Germany" />
   <a href="https://homayoon.dev"><img src="https://img.shields.io/badge/homayoon.dev-00ADD8?style=flat-square&labelColor=0D1117&logo=firefoxbrowser&logoColor=00ADD8" alt="Website" /></a>
 </p>
