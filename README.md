@@ -27,7 +27,7 @@ metadata:
     team: canonical/kubernetes
 spec:
   focus:
-    - distributed systems that stay correct under load
+    - distributed systems and microservices that stay correct under load
     - Kubernetes internals, operators, and cluster lifecycle
     - platform work whose users are other engineers
   languages: [go, python, sql, bash]
@@ -36,9 +36,8 @@ spec:
     - Cluster API bootstrap & control-plane providers (AWS, GCP, MAAS, bare metal)
     - an upgrade controller that converges a cluster from one declarative apply
 status:
-  location: Dubai, UAE
-  relocating: Germany — EU Blue Card eligible
-  openTo: senior backend / platform roles across the EU
+  currentLocation: Dubai, UAE
+  openTo: senior backend / platform roles across the EU / relocation
   phase: Running
 ```
 
@@ -58,16 +57,6 @@ status:
 </table>
 
 ---
-
-### What I'm working on
-
-At **[Canonical](https://canonical.com/)**, on the Kubernetes team, where everything I build ships open source:
-
-- **[k8s-snap](https://github.com/canonical/k8s-snap)** — architected `k8sd`, the on-node clustering daemon exposing a typed REST API for bootstrapping, node enrollment, certificate rotation, and runtime config over dqlite. It is now the single control interface on every Canonical Kubernetes cluster.
-- **[cluster-api-k8s](https://github.com/canonical/cluster-api-k8s)** — authored the Cluster API bootstrap and control-plane providers, making provisioning declarative across AWS, GCP, MAAS, and bare metal from one `clusterctl` workflow.
-- **[microk8s](https://github.com/canonical/microk8s)** — core contributor. Plus upstream patches in **[grpc/grpc-go](https://github.com/grpc/grpc-go)**.
-
-Before that, four years of high-traffic backend work — most recently at **Divar**, the largest classifieds platform in the region, where I tech-led the redesign of the ad-submission service every listing flows through, and built the notification platform behind 50M+ daily messages.
 
 ### Selected open source
 
@@ -117,7 +106,6 @@ I write about Go, distributed systems, and Kubernetes internals — and I've aut
 
 <a href="https://homayoon.dev"><img src="https://img.shields.io/badge/Website-00ADD8?style=for-the-badge&labelColor=0D1117&logo=firefoxbrowser&logoColor=00ADD8" alt="Website" /></a>
 <a href="https://www.linkedin.com/in/homayoon-alimohammadi/"><img src="https://img.shields.io/badge/LinkedIn-00ADD8?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=00ADD8" alt="LinkedIn" /></a>
-<a href="https://x.com/HomayoonAlm"><img src="https://img.shields.io/badge/X-00ADD8?style=for-the-badge&labelColor=0D1117&logo=x&logoColor=00ADD8" alt="X" /></a>
 <a href="mailto:homayoonalimohammadi@gmail.com"><img src="https://img.shields.io/badge/Email-00ADD8?style=for-the-badge&labelColor=0D1117&logo=gmail&logoColor=00ADD8" alt="Email" /></a>
 
 <br><br>
