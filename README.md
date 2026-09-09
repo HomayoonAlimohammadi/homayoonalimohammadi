@@ -7,11 +7,9 @@
 </a>
 
 <p>
-  <a href="https://canonical.com/"><img src="https://img.shields.io/badge/Canonical-Kubernetes_Team-E95420?style=flat-square&labelColor=0D1117&logo=ubuntu&logoColor=E95420" alt="Canonical" /></a>
   <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
   <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00ADD8" alt="Python" />
   <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=00ADD8" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Dubai-%E2%86%92_Germany-00ADD8?style=flat-square&labelColor=0D1117&logo=googlemaps&logoColor=00ADD8" alt="Relocating to Germany" />
   <a href="https://homayoon.dev"><img src="https://img.shields.io/badge/homayoon.dev-00ADD8?style=flat-square&labelColor=0D1117&logo=firefoxbrowser&logoColor=00ADD8" alt="Website" /></a>
 </p>
 
@@ -26,20 +24,14 @@ metadata:
   name: homayoon-alimohammadi
   labels:
     role: senior-backend-engineer
-    team: canonical/kubernetes
 spec:
   focus:
     - distributed systems and microservices that stay correct under load
     - Kubernetes internals, operators, and cluster lifecycle
     - platform work whose users are other engineers
   languages: [go, python, sql, bash]
-  currentlyBuilding:
-    - k8sd — the clustering daemon behind every Canonical Kubernetes cluster
-    - Cluster API bootstrap & control-plane providers (AWS, GCP, MAAS, bare metal)
-    - an upgrade controller that converges a cluster from one declarative apply
 status:
-  currentLocation: Dubai, UAE
-  openTo: senior backend / platform roles across the EU / relocation
+  openTo: senior backend / platform roles
   phase: Running
 ```
 
@@ -47,14 +39,12 @@ status:
 
 <table align="center">
 <tr>
-  <td align="center" width="200"><h2>10K+</h2><sub><b>nodes</b><br>scale ceiling established for<br>Canonical Kubernetes</sub></td>
   <td align="center" width="200"><h2>50M+</h2><sub><b>messages / day</b><br>event-driven notification<br>platform over Kafka</sub></td>
-  <td align="center" width="200"><h2>65M+</h2><sub><b>users</b><br>served by the services<br>I owned at Divar</sub></td>
+  <td align="center" width="200"><h2>65M+</h2><sub><b>users</b><br>served by the services<br>I owned</sub></td>
 </tr>
 <tr>
   <td align="center"><h2>8K</h2><sub><b>requests / second</b><br>sustained on production<br>Go services</sub></td>
   <td align="center"><h2>99.99%</h2><sub><b>availability SLO</b><br>held through a 4-release<br>zero-downtime redesign</sub></td>
-  <td align="center"><h2>60%</h2><sub><b>p99 latency cut</b><br>and 60% less kube-apiserver<br>load at scale</sub></td>
 </tr>
 </table>
 
@@ -88,7 +78,6 @@ status:
 I write about Go, distributed systems, and Kubernetes internals — and I've authored 10+ design documents through to production.
 
 <a href="https://homayoon.dev/blog"><img src="https://img.shields.io/badge/Read_the_blog-00ADD8?style=for-the-badge&labelColor=0D1117&logo=rss&logoColor=00ADD8" alt="Blog" /></a>
-<a href="https://homayoon.dev/resume"><img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&labelColor=0D1117&logo=readdotcv&logoColor=00ADD8" alt="Resume" /></a>
 
 ---
 
